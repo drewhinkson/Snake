@@ -1,3 +1,6 @@
+window.onload = function() {
+
+
  const GAME_SPEED = 100;
     const CANVAS_BORDER_COLOUR = 'black';
     const CANVAS_BACKGROUND_COLOUR = "white";
@@ -179,3 +182,4 @@
         dy = 10;
       }
     }
+}
